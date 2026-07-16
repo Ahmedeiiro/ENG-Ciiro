@@ -270,29 +270,66 @@ Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scal
 
 ---
 ---
+---
 
-# 🗄️ Databases I Work With
+# 📊 Data Analysis Projects
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,python" />
 
 </p>
 
+<div align="center">
+
+### 📈 Transforming Data into Meaningful Insights
+
+*Collecting, analyzing, and visualizing data to support smarter decisions and better business outcomes.*
+
+</div>
+
+---
+
 <table align="center">
 <tr>
-<td>🐘 PostgreSQL</td>
-<td>🐬 MySQL</td>
-<td>📦 SQLite</td>
-</tr>
+<td width="50%">
 
-<tr>
-<td>🔥 Firebase Firestore</td>
-<td>⚡ Supabase PostgreSQL</td>
-<td>🗃️ Database Design</td>
+### 📥 Data Management
+
+- 📥 Data Collection
+- 🧹 Data Cleaning
+- 🗄️ Database Analysis
+- 🔍 Data Validation
+- 📑 Data Processing
+
+</td>
+
+<td width="50%">
+
+### 📊 Analytics & Reporting
+
+- 📊 Dashboard Design
+- 📈 Data Visualization
+- 📋 Business Reporting
+- 📉 Performance Analysis
+- 📌 Decision Support
+
+</td>
 </tr>
 </table>
 
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Management-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboard-Design-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reporting-Professional-red?style=for-the-badge" />
+
+</p>
+
+---
 ---
 
 # 🌐 APIs & Integrations
