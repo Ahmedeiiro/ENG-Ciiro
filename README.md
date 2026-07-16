@@ -2,221 +2,389 @@
 
 # 👋 Hi, I'm Ahmed Abdalle (Ahmed Eiiro)
 
-### 🚀 Full Stack Developer | Flutter Engineer | Backend Developer
+### 🚀 Full Stack Developer • Flutter Developer • Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+Modern+Mobile+Applications;Flutter+%26+Dart+Developer;Backend+%26+Database+Engineer;Sports+Technology+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;Backend+Engineer;Supabase+Developer;Building+Modern+Applications;Always+Learning+New+Technologies" />
 
-<br>
-
-**I design and build scalable applications with modern technologies, clean architecture, secure backend systems, and optimized databases.**
-
-🇸🇴 Based in Somalia | 💻 Software Engineering | ⚽ Sports Technology
+<p>
+Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scalable mobile applications, powerful backend systems, and modern database solutions with clean architecture and exceptional user experiences.
+</p>
 
 </div>
 
-
 ---
-
 # 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284115-f47b5e10-1d7b-4a0b-9e0b-1f1e1f1e1f1e.gif">
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,supabase,postgres,mysql,firebase,git,github,vscode" />
 
-I am a passionate Full Stack Developer focused on building real-world applications that solve practical problems.
+</p>
 
-My main areas of expertise:
+<table align="center">
 
-- 📱 Mobile Application Development with Flutter
-- ⚙️ Backend Development & API Integration
-- 🗄️ Database Architecture & Optimization
-- ☁️ Cloud-Based Application Development
-- 🎨 Modern UI/UX Design
-- ⚽ Sports Technology Platforms
+<tr>
+<td width="50%">
 
-I believe great software is created by combining:
-**clean code + good architecture + excellent user experience.**
+### 🚀 What I Do
 
-<br clear="right"/>
+- 💻 Full Stack Mobile & Web Developer
+- 📱 Flutter & Dart Specialist
+- ⚡ Backend Development
+- 🌐 REST API Integration
+- 🗄️ Database Design & Optimization
+- ☁️ Cloud-Based Applications
+
+</td>
+
+<td width="50%">
+
+### 🌟 My Focus
+
+- ⚽ Sports Technology Solutions
+- 🎨 Clean UI / UX Design
+- 🏗️ Scalable Software Architecture
+- 🚀 High Performance Applications
+- 📚 Continuous Learning
+- ❤️ Open Source Enthusiast
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🛠️ Technology Stack
+<div align="center">
 
+### 💡 Developer Philosophy
+
+> **"I build scalable, modern, and user-friendly applications with clean architecture, secure backend systems, and optimized databases."**
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Backend-Engineer-34A853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge" />
+
+</p>
+---
+
+# 🛠 Tech Stack
 
 ## 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
 
+---
 
-## ⚙️ Backend & Cloud
+## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase,nodejs,spring,docker"/>
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,nodejs,firebase" />
+</p>
 
+---
 
-## 🗄️ Databases
+## 🗄 Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase"/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+</p>
 
+---
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=dart,java,javascript,html,css"/>
+<p>
+<img src="https://skillicons.dev/icons?i=dart,java,javascript,html,css" />
+</p>
 
+---
 
-## 🔧 Development Tools
+## 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+</p>
 
+---
+# 💡 Software Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+
+</p>
+
+<table align="center">
+<tr>
+<td>🏗️ Clean Architecture</td>
+<td>🧩 MVC</td>
+<td>⚡ MVVM</td>
+</tr>
+
+<tr>
+<td>🔄 State Management</td>
+<td>🌐 REST API Integration</td>
+<td>🔐 Authentication</td>
+</tr>
+
+<tr>
+<td>📝 CRUD Applications</td>
+<td>⚡ Realtime Applications</td>
+<td>🗄️ Database Modeling</td>
+</tr>
+
+<tr>
+<td>📂 Version Control (Git)</td>
+<td>🎨 UI/UX Best Practices</td>
+<td>📱 Responsive Design</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
 
-## ⚽ ER.TV — Football Live Streaming Platform
+<td width="50%">
 
-A football-focused streaming application designed to bring matches, leagues, and football content into one platform.
+## ⚽ ER.TV
 
-### Key Features:
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
-✅ Live Football Streaming  
-✅ Match Fixtures  
-✅ Football Leagues  
-✅ Team Management  
-✅ Live Updates  
-✅ Admin Dashboard  
-✅ Video Streaming System  
-✅ Realtime Data  
+### 📺 Football Live Streaming Platform
 
+✅ Live Matches
 
----
+✅ HD Streaming
 
-## 🏆 Football Tournament Management System
+✅ Football Leagues
 
-A complete tournament management solution for organizing football competitions.
+✅ Fixtures
 
-### Features:
+✅ Teams
 
-🏟 Tournament Creation  
-⚽ Round Robin System  
-🏆 Knockout Stage  
-📅 Automatic Fixtures  
-📊 League Tables  
-🥇 Top Scorers  
-⭐ MVP Ranking  
-🤝 Fair Play Tracking  
+✅ Match Statistics
 
+✅ Live Standings
 
----
+✅ Realtime Updates
 
-## 👥 Team Management Application
+✅ Admin Dashboard
 
-A digital platform for managing football teams.
+✅ Push Notifications
 
-Features:
+</td>
 
-- Player Profiles
-- Team Information
-- Match Schedule
-- Statistics
-- League Management
+<td width="50%">
 
+## 🏆 Tournament Management
 
----
+<img src="https://img.shields.io/badge/Project-Full%20System-blue?style=for-the-badge"/>
 
-# 🗄️ Database Experience
+### ⚽ Football Tournament System
 
+✅ Tournament Creation
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase"/>
+✅ Group Stage
 
+✅ Knockout
 
-Experience with:
+✅ Round Robin
 
-- PostgreSQL
-- MySQL
-- SQLite
-- Firebase Firestore
-- Supabase Database
+✅ Auto Fixtures
 
+✅ Live Standings
 
----
+✅ Top Scorers
 
-# 🌐 API & Integration
+✅ MVP
 
+✅ Fair Play
 
-<img src="https://skillicons.dev/icons?i=postman,nodejs"/>
+✅ Team Management
 
+</td>
 
-Working with:
-
-- REST APIs
-- Supabase APIs
-- Authentication Systems
-- Football Data APIs
-- JSON Data Integration
-
+</tr>
+</table>
 
 ---
 
-# 📊 Data Analysis
+# 👥 Team Management System
 
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres" />
 
+</p>
 
-Skills:
-
-📥 Data Collection  
-🧹 Data Cleaning  
-📊 Dashboard Design  
-📈 Data Visualization  
-🗄 Database Analysis  
-📋 Reporting  
-
-
----
-
-# 📚 Currently Exploring
-
-
-<img src="https://skillicons.dev/icons?i=spring,docker,aws,githubactions"/>
-
-
-Currently improving:
-
-- Spring Boot
-- Docker
-- CI/CD
-- Cloud Deployment
-- System Design
-- Scalable Architecture
-
+| Feature | Status |
+|---------|--------|
+| 👤 Player Registration | ✅ |
+| 👥 Team Profiles | ✅ |
+| 📅 Match Schedule | ✅ |
+| 🏆 League Management | ✅ |
+| 📊 Statistics Dashboard | ✅ |
 
 ---
 
-# 🧠 Software Engineering Principles
+# 📊 Data Analysis Projects
 
-✔ Clean Architecture  
-✔ MVC / MVVM  
-✔ State Management  
-✔ Secure Authentication  
-✔ CRUD Applications  
-✔ Realtime Systems  
-✔ Database Modeling  
-✔ Version Control  
-✔ Responsive UI Design  
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+</p>
+
+### 📈 Analytics Features
+
+- 📥 Data Collection
+- 🧹 Data Cleaning
+- 📊 Dashboard Design
+- 📋 Reporting
+- 🗄️ Database Analysis
+- 📉 Data Visualization
+
+---
+
+# ⚙️ Technologies Used
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,javascript,html,css,supabase,firebase,postgres,mysql,sqlite,nodejs,git,github,vscode,idea,postman,figma,docker" />
+
+</p>
+
+---
+---
+---
+
+# 📊 Data Analysis Projects
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,python" />
+
+</p>
+
+<div align="center">
+
+### 📈 Transforming Data into Meaningful Insights
+
+*Collecting, analyzing, and visualizing data to support smarter decisions and better business outcomes.*
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📥 Data Management
+
+- 📥 Data Collection
+- 🧹 Data Cleaning
+- 🗄️ Database Analysis
+- 🔍 Data Validation
+- 📑 Data Processing
+
+</td>
+
+<td width="50%">
+
+### 📊 Analytics & Reporting
+
+- 📊 Dashboard Design
+- 📈 Data Visualization
+- 📋 Business Reporting
+- 📉 Performance Analysis
+- 📌 Decision Support
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Management-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboard-Design-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reporting-Professional-red?style=for-the-badge" />
+
+</p>
+
+---
+---
+
+# 🌐 APIs & Integrations
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postman,nodejs" />
+
+</p>
+
+| API | Description |
+|------|-------------|
+| 🌍 REST API | Building & Consuming RESTful Services |
+| ⚡ Supabase API | Authentication, Database & Storage |
+| 🔐 Authentication API | Secure Login & User Management |
+| ⚽ Football APIs | Live Scores, Fixtures & Statistics |
+| 📄 JSON API | Data Exchange & Integration |
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,docker,nodejs,githubactions,aws" />
+
+</p>
+
+<div align="center">
+
+| 🚀 Technology | 📖 Status |
+|--------------|-----------|
+| 🌱 Spring Boot | Learning |
+| 🐳 Docker | Learning |
+| 🔄 CI/CD | Learning |
+| 💚 Node.js | Learning |
+| ☁️ Cloud Deployment | Learning |
+| 🏗️ System Design | Learning |
+
+</div>
 
 ---
 
 # 🌍 Languages
 
+<div align="center">
 
-| Language | Level |
-|---|---|
-| 🇸🇴 Somali | Native |
-| 🇬🇧 English | Professional |
+| Language | Proficiency |
+|----------|-------------|
+| 🇸🇴 Somali | ⭐⭐⭐⭐⭐ Native |
+| 🇬🇧 English | ⭐⭐⭐⭐ Professional |
 
+</div>
+
+---
 
 ---
 
@@ -224,55 +392,87 @@ Currently improving:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmedeiiro&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmedeiiro&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedeiiro&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedeiiro&layout=compact&theme=tokyonight"/>
 
 </p>
-
-
----
-
-# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmedeiiro&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ahmedeiiro&theme=tokyonight"/>
 
 </p>
 
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmedeiiro&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedeiiro&theme=tokyo-night"/>
+
+</p>
+
+------
 
 # 🤝 Connect With Me
 
+<div align="center">
 
-<p align="center">
-
+<p>
 <a href="https://github.com/Ahmedeiiro">
-
 <img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
 
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
 
 </p>
 
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-Ahmedeiiro-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge"/>
+
+</div>
 
 ---
 
 <div align="center">
 
+# 💬 Developer Mindset
 
-## 💬 Developer Philosophy
+> **"Code with passion. Build with purpose. Never stop learning."**
 
+<br>
 
-> "Code with passion. Build with purpose. Never stop learning."
+### 🚀 Building the future one line of code at a time.
 
+<br>
 
-🚀 Building digital solutions that create impact.
+⭐ **Thanks for visiting my GitHub profile!**
 
+<img src="https://komarev.com/ghpvc/?username=Ahmedeiiro&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
-⭐ Thanks for visiting my profile!
+</div>
 
+---
 
 </div>
