@@ -69,92 +69,156 @@ Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scal
 </p>
 
 ---
-
 # 💡 Software Engineering
 
-✔ Clean Architecture
+<p align="center">
 
-✔ MVC
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
 
-✔ MVVM
+</p>
 
-✔ State Management
+<table align="center">
+<tr>
+<td>🏗️ Clean Architecture</td>
+<td>🧩 MVC</td>
+<td>⚡ MVVM</td>
+</tr>
 
-✔ REST API Integration
+<tr>
+<td>🔄 State Management</td>
+<td>🌐 REST API Integration</td>
+<td>🔐 Authentication</td>
+</tr>
 
-✔ Authentication
+<tr>
+<td>📝 CRUD Applications</td>
+<td>⚡ Realtime Applications</td>
+<td>🗄️ Database Modeling</td>
+</tr>
 
-✔ CRUD Applications
-
-✔ Realtime Applications
-
-✔ Database Modeling
-
-✔ Version Control (Git)
-
-✔ UI/UX Best Practices
-
-✔ Responsive Design
+<tr>
+<td>📂 Version Control (Git)</td>
+<td>🎨 UI/UX Best Practices</td>
+<td>📱 Responsive Design</td>
+</tr>
+</table>
 
 ---
 
-# 📱 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## ⚽ ER.TV
 
-Professional Football Live Streaming Platform
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
-✨ Features
+### 📺 Football Live Streaming Platform
 
-- Live Matches
-- HD Video Streaming
-- Football Leagues
-- Match Fixtures
-- Match Statistics
-- Live Standings
-- Teams
-- Real-time Updates
-- Admin Dashboard
-- Push Notifications
+✅ Live Matches
+
+✅ HD Streaming
+
+✅ Football Leagues
+
+✅ Fixtures
+
+✅ Teams
+
+✅ Match Statistics
+
+✅ Live Standings
+
+✅ Realtime Updates
+
+✅ Admin Dashboard
+
+✅ Push Notifications
+
+</td>
+
+<td width="50%">
+
+## 🏆 Tournament Management
+
+<img src="https://img.shields.io/badge/Project-Full%20System-blue?style=for-the-badge"/>
+
+### ⚽ Football Tournament System
+
+✅ Tournament Creation
+
+✅ Group Stage
+
+✅ Knockout
+
+✅ Round Robin
+
+✅ Auto Fixtures
+
+✅ Live Standings
+
+✅ Top Scorers
+
+✅ MVP
+
+✅ Fair Play
+
+✅ Team Management
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 Football Tournament Management System
+# 👥 Team Management System
 
-Complete Tournament Management Platform
+<p align="center">
 
-- Tournament Creation
-- Round Robin
-- Knockout
-- Group Stage
-- Auto Fixture Generator
-- Live Standings
-- Top Scorers
-- MVP
-- Fair Play
-- Team Management
-- Match Scheduling
+<img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres" />
 
----
+</p>
 
-## 👥 Team Management System
-
-- Player Registration
-- Team Profiles
-- Match Schedule
-- League Management
-- Statistics Dashboard
+| Feature | Status |
+|---------|--------|
+| 👤 Player Registration | ✅ |
+| 👥 Team Profiles | ✅ |
+| 📅 Match Schedule | ✅ |
+| 🏆 League Management | ✅ |
+| 📊 Statistics Dashboard | ✅ |
 
 ---
 
-## 📊 Data Analysis Projects
+# 📊 Data Analysis Projects
 
-- Data Collection
-- Database Analysis
-- Dashboard Design
-- Reporting
-- Data Cleaning
-- Data Visualization
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+</p>
+
+### 📈 Analytics Features
+
+- 📥 Data Collection
+- 🧹 Data Cleaning
+- 📊 Dashboard Design
+- 📋 Reporting
+- 🗄️ Database Analysis
+- 📉 Data Visualization
+
+---
+
+# ⚙️ Technologies Used
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,javascript,html,css,supabase,firebase,postgres,mysql,sqlite,nodejs,git,github,vscode,idea,postman,figma,docker" />
+
+</p>
 
 ---
 
