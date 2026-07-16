@@ -221,51 +221,85 @@ Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scal
 </p>
 
 ---
+---
 
-# 🌍 Databases I Work With
+# 🗄️ Databases I Work With
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase" />
+
 </p>
 
-- PostgreSQL
-- MySQL
-- SQLite
-- Firebase Firestore
-- Supabase PostgreSQL
+<table align="center">
+<tr>
+<td>🐘 PostgreSQL</td>
+<td>🐬 MySQL</td>
+<td>📦 SQLite</td>
+</tr>
+
+<tr>
+<td>🔥 Firebase Firestore</td>
+<td>⚡ Supabase PostgreSQL</td>
+<td>🗃️ Database Design</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 APIs
+# 🌐 APIs & Integrations
 
-- REST API
-- Supabase API
-- Authentication APIs
-- Football APIs
-- JSON API Integration
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postman,nodejs" />
+
+</p>
+
+| API | Description |
+|------|-------------|
+| 🌍 REST API | Building & Consuming RESTful Services |
+| ⚡ Supabase API | Authentication, Database & Storage |
+| 🔐 Authentication API | Secure Login & User Management |
+| ⚽ Football APIs | Live Scores, Fixtures & Statistics |
+| 📄 JSON API | Data Exchange & Integration |
 
 ---
 
 # 📚 Currently Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,docker,nodejs,githubactions" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,docker,nodejs,githubactions,aws" />
+
 </p>
 
-- Spring Boot
-- Docker
-- CI/CD
-- Node.js
-- Cloud Deployment
-- System Design
+<div align="center">
+
+| 🚀 Technology | 📖 Status |
+|--------------|-----------|
+| 🌱 Spring Boot | Learning |
+| 🐳 Docker | Learning |
+| 🔄 CI/CD | Learning |
+| 💚 Node.js | Learning |
+| ☁️ Cloud Deployment | Learning |
+| 🏗️ System Design | Learning |
+
+</div>
 
 ---
 
-# 🌎 Languages
+# 🌍 Languages
 
-🇸🇴 Somali
+<div align="center">
 
-🇬🇧 English
+| Language | Proficiency |
+|----------|-------------|
+| 🇸🇴 Somali | ⭐⭐⭐⭐⭐ Native |
+| 🇬🇧 English | ⭐⭐⭐⭐ Professional |
+
+</div>
+
+---
 
 ---
 
