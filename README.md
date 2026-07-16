@@ -1,109 +1,134 @@
-# ENG-Ciiro
-# Hi there 👋, I'm Ahmed Abdalle (Ahmed Eiiro)
+<div align="center">
 
-### Full Stack Developer | Flutter Developer | Backend Engineer
+# 👋 Hi, I'm Ahmed Abdalle (Ahmed Eiiro)
 
-I'm a passionate Full Stack Developer from Somalia who enjoys building scalable mobile applications, backend systems, and modern databases. I focus on creating high-quality digital products with clean architecture, beautiful UI, and secure backend services.
+### 🚀 Full Stack Developer • Flutter Developer • Backend Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;Backend+Engineer;Supabase+Developer;Building+Modern+Applications;Always+Learning+New+Technologies" />
+
+<p>
+Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scalable mobile applications, powerful backend systems, and modern database solutions with clean architecture and exceptional user experiences.
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Full Stack Mobile & Web Developer
 - 📱 Flutter & Dart Specialist
-- ⚡ Backend Development with Supabase & REST APIs
-- 🗄️ Database Design & Management
-- 🌍 Passionate about Sports Technology & Digital Innovation
-- 🎯 Always learning new technologies and software architecture
+- ⚡ Backend Development
+- 🗄 Database Design & Optimization
+- 🔥 REST API Development
+- ☁️ Cloud-Based Applications
+- 🌍 Passionate About Sports Technology
+- 🎯 Continuous Learner
+- ❤️ Open Source Enthusiast
 
 ---
 
 # 🛠 Tech Stack
 
-## Mobile Development
-- Flutter
-- Dart
-- Android
-- Responsive UI
+## 📱 Mobile Development
 
-## Backend
-- Supabase
-- REST APIs
-- Authentication
-- Storage
-- Realtime Database
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
 
-## Databases
-- PostgreSQL
-- MySQL
-- SQLite
-- Firebase Firestore
-- Supabase Database
+---
 
-## Languages
+## ⚙️ Backend Development
 
-- Dart
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,nodejs,firebase" />
+</p>
 
-## Tools
+---
 
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- IntelliJ IDEA
-- Postman
-- Figma
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,java,javascript,html,css" />
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+</p>
 
 ---
 
 # 💡 Software Engineering
 
-- Clean Architecture
-- MVC
-- MVVM
-- State Management
-- REST API Integration
-- Authentication
-- CRUD Applications
-- Realtime Systems
-- Database Modeling
-- Version Control
+✔ Clean Architecture
+
+✔ MVC
+
+✔ MVVM
+
+✔ State Management
+
+✔ REST API Integration
+
+✔ Authentication
+
+✔ CRUD Applications
+
+✔ Realtime Applications
+
+✔ Database Modeling
+
+✔ Version Control (Git)
+
+✔ UI/UX Best Practices
+
+✔ Responsive Design
 
 ---
 
-# 📱 Applications & Projects
+# 📱 Featured Projects
 
 ## ⚽ ER.TV
-A professional football live streaming mobile application featuring:
+
+Professional Football Live Streaming Platform
+
+✨ Features
 
 - Live Matches
-- Fixtures
-- Leagues
-- Teams
+- HD Video Streaming
+- Football Leagues
+- Match Fixtures
 - Match Statistics
-- Standings
+- Live Standings
+- Teams
 - Real-time Updates
 - Admin Dashboard
-- Video Streaming
-- Notifications
+- Push Notifications
 
 ---
 
 ## 🏆 Football Tournament Management System
 
-Features include:
+Complete Tournament Management Platform
 
 - Tournament Creation
-- Group Stage
-- Knockout
 - Round Robin
-- Fixtures Generator
-- Standings
+- Knockout
+- Group Stage
+- Auto Fixture Generator
+- Live Standings
 - Top Scorers
 - MVP
 - Fair Play
@@ -112,29 +137,32 @@ Features include:
 
 ---
 
-## 👥 Team Management Application
+## 👥 Team Management System
 
 - Player Registration
 - Team Profiles
 - Match Schedule
-- Team Statistics
 - League Management
+- Statistics Dashboard
 
 ---
 
 ## 📊 Data Analysis Projects
 
-Working with:
-
 - Data Collection
-- Data Cleaning
-- Reporting
-- Dashboard Design
 - Database Analysis
+- Dashboard Design
+- Reporting
+- Data Cleaning
+- Data Visualization
 
 ---
 
 # 🌍 Databases I Work With
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+</p>
 
 - PostgreSQL
 - MySQL
@@ -148,47 +176,91 @@ Working with:
 
 - REST API
 - Supabase API
-- Football APIs
 - Authentication APIs
+- Football APIs
+- JSON API Integration
 
 ---
 
 # 📚 Currently Learning
 
+<p>
+<img src="https://skillicons.dev/icons?i=spring,docker,nodejs,githubactions" />
+</p>
+
 - Spring Boot
 - Docker
 - CI/CD
 - Node.js
-- System Design
 - Cloud Deployment
+- System Design
 
 ---
 
 # 🌎 Languages
 
-- Somali 🇸🇴
-- English 🇬🇧
+🇸🇴 Somali
+
+🇬🇧 English
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedeiiro&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedeiiro&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmedeiiro&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedeiiro&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedeiiro&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ahmedeiiro&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmedeiiro&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedeiiro&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
-- GitHub: https://github.com/Ahmedeiiro
+<p>
+
+<a href="https://github.com/Ahmedeiiro">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
 
 ---
 
-## 💬 Quote
+<div align="center">
 
-> "Code with passion. Build with purpose. Never stop learning."
+## 💬 Favorite Quote
 
-⭐ Thanks for visiting my GitHub profile!
+> **"Code with passion. Build with purpose. Never stop learning."**
+
+⭐ **Thank you for visiting my GitHub profile!**
+
+</div>
