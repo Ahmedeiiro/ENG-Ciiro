@@ -424,26 +424,55 @@ Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scal
 
 </p>
 
----
+------
 
 # 🤝 Connect With Me
 
-<p>
+<div align="center">
 
+<p>
 <a href="https://github.com/Ahmedeiiro">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
 
 </p>
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-Ahmedeiiro-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💬 Favorite Quote
+# 💬 Developer Mindset
 
 > **"Code with passion. Build with purpose. Never stop learning."**
 
-⭐ **Thank you for visiting my GitHub profile!**
+<br>
+
+### 🚀 Building the future one line of code at a time.
+
+<br>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+<img src="https://komarev.com/ghpvc/?username=Ahmedeiiro&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</div>
+
+---
 
 </div>
