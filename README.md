@@ -13,19 +13,67 @@ Passionate Full Stack Developer from Somalia 🇸🇴 dedicated to building scal
 </div>
 
 ---
+# 👨‍💻 About Me
 
-# 🚀 About Me
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,supabase,postgres,mysql,firebase,git,github,vscode" />
+
+</p>
+
+<table align="center">
+
+<tr>
+<td width="50%">
+
+### 🚀 What I Do
 
 - 💻 Full Stack Mobile & Web Developer
 - 📱 Flutter & Dart Specialist
 - ⚡ Backend Development
-- 🗄 Database Design & Optimization
-- 🔥 REST API Development
+- 🌐 REST API Integration
+- 🗄️ Database Design & Optimization
 - ☁️ Cloud-Based Applications
-- 🌍 Passionate About Sports Technology
-- 🎯 Continuous Learner
+
+</td>
+
+<td width="50%">
+
+### 🌟 My Focus
+
+- ⚽ Sports Technology Solutions
+- 🎨 Clean UI / UX Design
+- 🏗️ Scalable Software Architecture
+- 🚀 High Performance Applications
+- 📚 Continuous Learning
 - ❤️ Open Source Enthusiast
 
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+### 💡 Developer Philosophy
+
+> **"I build scalable, modern, and user-friendly applications with clean architecture, secure backend systems, and optimized databases."**
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Backend-Engineer-34A853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge" />
+
+</p>
 ---
 
 # 🛠 Tech Stack
